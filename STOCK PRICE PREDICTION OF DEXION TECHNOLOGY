@@ -1,0 +1,5 @@
+ TASK I- STOCK PRICE PREDICTION OF DIXON TECHNOLOGY
+In this project, I will look at the Dixon Technology stock over 3 years from 1 /January/2020 to 18/ October /2023. The  CSV file will contain the Open, High, Low, Close, Adj Close, and Volume data for each date.
+
+## Loading the Stock Prices Dataset.
+Load the CSV file as a data frame using Pandas. 
