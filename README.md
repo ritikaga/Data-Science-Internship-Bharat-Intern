@@ -12,3 +12,5 @@
 
 
 ### Task 2: Titanic Classification - In this task, I have to make a system that tells whether the person will be saved from sinking.
+
+![image](https://github.com/ritikaga/Data-Science-Internship-Bharat-Intern/assets/66274316/394a04b0-2334-4af5-a4b8-9293a45093a6)
