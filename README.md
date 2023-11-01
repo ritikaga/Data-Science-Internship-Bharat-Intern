@@ -7,6 +7,7 @@
 
  <img src="https://github.com/ritikaga/Data-Science-Internship-Bharat-Intern/assets/66274316/7b35a3a2-3e0d-46c1-9283-93e111e62bc2" width="900" height="200">
  
+  ## Link-https://github.com/ritikaga/Data-Science-Internship-Bharat-Intern/tree/main/Task-%20I
 
 
 
@@ -14,3 +15,5 @@
 ### Task 2: Titanic Classification - In this task, I have to make a system that tells whether the person will be saved from sinking.
 
 ![image](https://github.com/ritikaga/Data-Science-Internship-Bharat-Intern/assets/66274316/394a04b0-2334-4af5-a4b8-9293a45093a6)
+
+## Link-https://github.com/ritikaga/Data-Science-Internship-Bharat-Intern/tree/main/Task-2%20Titanic%20Classification
